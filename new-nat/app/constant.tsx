@@ -1,1 +1,1 @@
-export const DEVICE_IP = "http://192.168.131.171:5000";
+export const DEVICE_IP = "http://192.168.1.40:5000";
