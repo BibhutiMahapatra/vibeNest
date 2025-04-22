@@ -7,7 +7,7 @@ const multer = require("multer");
 
 const app = express();
 const PORT = 5000;
-const DEVICE_IP = "http://192.168.131.171:" + PORT;
+const DEVICE_IP = "http://192.168.1.40:" + PORT;
 
 app.use(cors());
 app.use(express.json());
